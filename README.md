@@ -7,7 +7,7 @@ Simple Traditional Stone Paper Scissors Game using python....
 Open Command prompt:
 $git clone https://github.com/Flashl3opard/Stone-Paper-Scissors-Game.git
 $cd Stone-Paper-Scissors-Game
-$python StonePaperScissor.py
+$python StonePaperScissors.py
 
 And Enjoy :)
 
@@ -17,7 +17,7 @@ Open Terminal:
 $apt-get update python && apt-get upgrade python
 $git clone https://github.com/Flashl3opard/Stone-Paper-Scissors-Game.git
 $cd Stone-Paper-Scissors-Game
-$Python3 StonePaperScissor.py
+$Python3 StonePaperScissors.py
 
 And Enjoy :)
 
